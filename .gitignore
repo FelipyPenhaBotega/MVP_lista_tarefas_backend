@@ -1,0 +1,5 @@
+/venv*
+/_pycache*
+/model/_pycache*
+/schemas/_pycache*
+/service/_pycache*
